@@ -2,5 +2,5 @@ Zikra Resolusi
 -Konsisten untuk belajar
 -Berusaha lebih baik setiap harinya untuk menjadi web developer
 -Saya akan coba membuat beberapa project hasil belajar saya
--Membuat portofolio
 -Kolaborasi dengan leih banyak expert
+-Membuat gallery
