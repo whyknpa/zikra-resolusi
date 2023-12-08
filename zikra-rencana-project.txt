@@ -6,5 +6,6 @@ Rencana Project Zikra
  -Library Anime.js
 -Card Anime
  -SASS
+ -Framework Bootstrap 5
 -Gallery Anime
 -Animasi Anime
