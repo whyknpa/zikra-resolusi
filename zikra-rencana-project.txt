@@ -3,5 +3,9 @@ Rencana Project Zikra
 -Landing Page Anime
  -Menggunakan Framework Tailwind
  -Menggunakan Javascript DOM agar lebih intraktif
+ -Library Anime.js
 -Card Anime
+ -SASS
+ -Framework Bootstrap 5
 -Gallery Anime
+-Animasi Anime
